@@ -13,6 +13,9 @@ The Code Is Also  in Packages Form.So It Becomes easier For us To Understand.
 I Followed `MVC` Pattern.
 
 ### **You Can See Demo Here**
-https://github.com/ShadowAdi/Postgres_GORM_GIN/blob/main/GetAll%20-%20gotuts%20-%20Visual%20Studio%20Code%202024-05-11%2021-09-40.mp4
+
+
+
+https://github.com/ShadowAdi/Postgres_GORM_GIN/assets/131863842/2bd17d15-66ec-4e35-91b3-108c6b6d8ad0
 
 
